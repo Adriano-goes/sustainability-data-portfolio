@@ -1,0 +1,6 @@
+Country,Year,Building_Type,Energy_Consumption_kWh_m2,Emission_Factor_gCO2_kWh,HDD,CDD
+Spain,2023,Office,120,230,1400,450
+Germany,2023,Office,160,300,2600,150
+Netherlands,2023,Office,130,250,2400,120
+Sweden,2023,Office,180,30,3800,40
+Italy,2023,Office,140,270,1700,400
