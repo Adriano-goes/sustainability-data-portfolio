@@ -38,7 +38,7 @@ Automate data refresh and generate PowerBI or Streamlit dashboards.
 
 # Author
 Adriano Goes
-Amsterda, Netherlands · MBA Data Science & Analytics
+Amsterdam, Netherlands · MBA Data Science & Analytics
 LinkedIn | GitHub
 
 This repository is the foundation of an evolving sustainability analytics portfolio focused on data transparency and climate performance.
